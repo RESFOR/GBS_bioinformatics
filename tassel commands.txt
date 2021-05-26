@@ -128,8 +128,7 @@ Tassel Pipeline Arguments: -fork1 -MergeDuplicateSNP_vcf_Plugin -i ResFor_pine_2
 
 Memory Settings: -Xms512m -Xmx32G
 Tassel Pipeline Arguments: -fork1 -tbt2vcfPlugin -i ResFor_pine_20190116/jcg189/MERGETBT/2148.tbt.byte -ak 3 -mnLCov 0 -m ResFor_pine_20190116/jcg189/TOPM/2148.topm.bin -mnMAF 0.01 -o ResFor_pine_20190116/jcg189/VCF/ -s 4 -e 4 -endPlugin -runfork1
-[main] INFO net.maizegenetics.pipeline.TasselPipeline - Tassel Version: 3.0.174 Date: March 3, 2016
---
+
 Memory Settings: -Xms512m -Xmx32G
 Tassel Pipeline Arguments: -fork1 -MergeDuplicateSNP_vcf_Plugin -i ResFor_pine_20190116/jcg189/VCF/MERGETBT.c4 
 -o ResFor_pine_20190116/jcg189/VCF/4.vcf -ak 3 -endPlugin -runfork1
