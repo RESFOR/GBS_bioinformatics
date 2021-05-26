@@ -1,4 +1,4 @@
-TASSEL commands
+TASSEL commands (charles.chen@okstate.edu)
 
 Memory Settings: -Xms512m -Xmx32G
 Tassel Pipeline Arguments: -fork1 -FastqToTagCountPlugin -i ResFor_pine_20190116/jcg189/fastq -k ResFor_pine_20190116/jcg189/keyfile.txt -e PstI -s 600000000 
